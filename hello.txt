@@ -1,1 +1,2 @@
 Hello, I am kearning Git!
+Github is fun!
